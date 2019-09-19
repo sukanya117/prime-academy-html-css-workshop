@@ -1,0 +1,33 @@
+h1{
+  color: #cc31c2;
+  background-color: yellow;
+}
+
+body {
+  
+  background-color:coral;
+}
+
+li {
+  background-color:gainsboro;
+   
+}
+li:nth-child(4){
+  background-color: magenta;
+ 
+}
+
+#make-me-orange {
+  background-color: orange;
+}
+
+.myclass{
+  background-color: green; 
+}
+
+
+img{
+  width: 100px;
+}
+
+
